@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-26T11:01:09 IST" name="Default suite" finished-at="2021-12-26T11:01:20 IST" duration-ms="10322">
+    <groups>
+    </groups>
+    <test started-at="2021-12-26T11:01:09 IST" name="Default test" finished-at="2021-12-26T11:01:20 IST" duration-ms="10322">
+      <class name="Java_Selenium.ActionClassEvent">
+        <test-method signature="launchBrowser()[pri:0, instance:Java_Selenium.ActionClassEvent@346d61be]" started-at="2021-12-26T11:01:09 IST" name="launchBrowser" finished-at="2021-12-26T11:01:14 IST" duration-ms="4683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="openApplicationUrl()[pri:0, instance:Java_Selenium.ActionClassEvent@346d61be]" started-at="2021-12-26T11:01:14 IST" name="openApplicationUrl" finished-at="2021-12-26T11:01:19 IST" duration-ms="4527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplicationUrl -->
+        <test-method signature="handleMouseEvent()[pri:1, instance:Java_Selenium.ActionClassEvent@346d61be]" started-at="2021-12-26T11:01:19 IST" name="handleMouseEvent" finished-at="2021-12-26T11:01:20 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleMouseEvent -->
+      </class> <!-- Java_Selenium.ActionClassEvent -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
